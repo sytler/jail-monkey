@@ -1,6 +1,5 @@
-# WARNING:  Currently unsupported.  Happy to merge PRs, but I don't have the devices to test anymore
+# FORKED original Jail Monkey + updated dependencies 0.0.7 rootbeer
 
-![Jail Monkey](./_art/JailMonkey.jpg)
 ## Can you ever really trust a phone?
 
 # Why?
