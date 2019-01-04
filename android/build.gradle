@@ -11,11 +11,15 @@ android {
         versionName "1.0"
     }
     lintOptions {
-       warning 'InvalidPackage'
+        warning 'InvalidPackage'
     }
+}
+
+repositories {
+    maven { url "https://jitpack.io" }
 }
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.scottyab:rootbeer-lib:0.0.7'
+    compile 'com.github.KimChangYoun:rootbeer:0.0.8'
 }
