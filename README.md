@@ -1,4 +1,4 @@
-# FORKED original Jail Monkey + updated dependencies 0.0.7 rootbeer
+# FORKED original Jail Monkey + updated dependencies to forked 0.0.8 rootbeer
 
 ## Can you ever really trust a phone?
 
