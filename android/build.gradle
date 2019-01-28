@@ -15,11 +15,13 @@ android {
     }
 }
 
-repositories {
-    maven { url "https://jitpack.io" }
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
 }
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.github.KimChangYoun:rootbeer:0.0.8'
+    compile 'com.github.sytler:rootbeer:0.0.8'
 }
