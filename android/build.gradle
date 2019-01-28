@@ -23,5 +23,5 @@ allprojects {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.github.sytler:rootbeer:master-SNAPSHOT'
+    compile 'com.github.sytler:rootbeer:0.0.8'
 }
